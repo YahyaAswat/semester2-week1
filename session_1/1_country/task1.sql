@@ -12,4 +12,15 @@
 
 -- write your sql code here
 
-SELECT * from countries;
+
+/*Country Continent Population  AreaSqMi  
+PopDensityPerSqMi  CoastlineRatio  NetMigration  
+InfantMortalityPer1000  GDPPerCapita  LiteracyPercent  
+PhonesPer1000  ArablePercent  CropsPercent  OtherPercent 
+Climate  Birthrate  Deathrate  Agriculture  Industry  
+Service*/
+
+--SELECT * from countries;
+--SELECT Country, Population from countries
+--SELECT Country FROM countries WHERE Continent='Europe';
+--SELECT Country FROM countries WHERE Country LIKE '%United%';
