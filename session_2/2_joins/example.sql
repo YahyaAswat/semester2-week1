@@ -8,4 +8,3 @@
 -- 3. Exit SQLite: .exit
 
 -- Use this file to test things out, follow allow with classwork, etc.
-
